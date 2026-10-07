@@ -6,7 +6,6 @@
 
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-<!-- ![BLoC](https://img.shields.io/badge/FLUTTER_BLOC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter BLoC) --> 
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Riverpod](https://img.shields.io/badge/RIVERPOD-00B4D8?style=for-the-badge&logo=flutter&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
