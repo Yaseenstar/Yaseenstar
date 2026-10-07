@@ -24,26 +24,23 @@ I build **mobile applications with Flutter**, focused on **scalable state manage
 
 | Project | Stack | Description |
 |---|---|---|
-| **Weather Application** | Flutter · Riverpod · REST API · SQLite | Real-time weather app with location-based forecasts, Gemini AI chat, offline caching, and push notifications.
+| [**Weather-Application**](https://github.com/Yaseenstar/Weather-Application) | Flutter · Riverpod · REST API · SQLite | Real-time weather app with location-based forecasts, Gemini AI chat, offline caching, and push notifications.
 ---
 
 ## Tech Stack
 
--*Mobile*            →  Flutter, Dart
--*State Management*  →  BLoC / Cubit, Riverpod, Provider, Streams
--*Code Generation*   →  Freezed, json_serializable
--*Backend*           →  Firebase (Auth, Firestore, Storage)
--*Database*          →  SQLite, Firestore
--*Networking*        →  REST APIs, HTTP, JSON
--*Tools*             →  Git, GitHub
+Mobile            →  Flutter, Dart
+State Management  →  BLoC / Cubit, Riverpod, Provider, Streams
+Code Generation   →  Freezed, json_serializable
+Backend           →  Firebase (Auth, Firestore, Storage)
+Database          →  SQLite, Firestore
+Networking        →  REST APIs, HTTP, JSON
+Tools             →  Git, GitHub
 
 ---
 
-## About Me
+## Currently
 
-- 🎓 BS Computer Science student, University of Malakand
-- 📍  Malakand, Kpk Pakistan
-- 🗣️ Urdu · English
 - 💼 Integrating Firebase services into production-grade Flutter apps
 - 💼 Open to internships and entry-level remote roles in mobile app development
 
