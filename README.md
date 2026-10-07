@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="Yaseenstar">
 
-<!--
-**Yaseenstar/Yaseenstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yaseen Ahmad
 
-Here are some ideas to get you started:
+### Flutter Developer · Mobile App Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Provider](https://img.shields.io/badge/PROVIDER-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+I build **mobile applications with Flutter**, focused on **scalable state management (BLoC & Riverpod)**, **Firebase integration**, and **REST API consumption**. I care about writing readable, maintainable code that holds up integration, and REST API consumption. I care about writing maintainable, testable code that holds up in production..
+
+---
+
+## What I Build
+
+| Project | Stack | Description |
+|---|---|---|
+| **Weather Application** | Flutter · Riverpod · REST API · SQLite | Real-time weather app with location-based forecasts, Gemini AI chat, offline caching, and push notifications.
+---
+
+## Tech Stack
+
+| Area | Tools |
+
+*Mobile*            →  Flutter, Dart
+*State Management*  →  BLoC / Cubit, Riverpod, Provider, Streams
+*Code Generation*   →  Freezed, json_serializable
+*Backend*           →  Firebase (Auth, Firestore, Storage)
+*Database*          →  SQLite, Firestore
+*Networking*        →  REST APIs, HTTP, JSON
+*Tools*             →  Git, GitHub
+
+---
+
+## About Me
+
+- 🎓 BS Computer Science student, University of Malakand
+- 📍  Malakand, Kpk Pakistan
+- 🗣️ Urdu · English
+  💼 Integrating Firebase services into production-grade Flutter apps
+- 💼 Open to internships and entry-level remote roles in mobile app development
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaseen-ahmad-88039a38a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skystary1a@gmail.com)
+
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaseenstar&show_icons=true&theme=default&hide_border=true)
+
+</div>
