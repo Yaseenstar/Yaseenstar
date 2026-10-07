@@ -41,23 +41,28 @@ Tools             →  Git, GitHub
 
 ## Currently
 
-- 💼 Integrating Firebase services into production-grade Flutter apps
-- 💼 Open to internships and entry-level remote roles in mobile app development
+-  Integrating Firebase services into production-grade Flutter apps
+-  Open to internships and entry-level remote roles in mobile app development
 
 ---
 
-## Connect with me
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaseen-ahmad-88039a38a)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaseenstar)
+<p align="center">
+  <a href="https://linkedin.com/in/yaseen-ahmad-88039a38a"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" /></a>
+</p>
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skystary1a@gmail.com)
+<p align="center">
+  <a href="https://github.com/Yaseenstar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-📬 Reach me by email · 💼 Open to Flutter opportunities · 🔗 [github.com/Yaseenstar](https://github.com/Yaseenstar)
---- 
+<p align="center">
+  <a href="mailto:skystary1a@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge" /></a>
+</p>
 
-     
-<div align="center">
+<p align="center">
+  📬 Reach me by email · 💼 Open to Flutter opportunities · 🔗 <a href="https://github.com/Yaseenstar">github.com/Yaseenstar</a>
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaseenstar&show_icons=true&theme=default&hide_border=true)
 
