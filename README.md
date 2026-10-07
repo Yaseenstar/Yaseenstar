@@ -29,15 +29,15 @@ I build **mobile applications with Flutter**, focused on **scalable state manage
 
 ## Tech Stack
 
-Mobile            →  Flutter, Dart
-State Management  →  BLoC / Cubit, Riverpod, Provider, Streams
-Code Generation   →  Freezed, json_serializable
-Backend           →  Firebase (Auth, Firestore, Storage)
-Database          →  SQLite, Firestore
-Networking        →  REST APIs, HTTP, JSON
-Tools             →  Git, GitHub
-
----
+```
+Mobile            → Flutter, Dart
+State Management  → BLoC / Cubit, Riverpod, Provider, Streams
+Code Generation   → Freezed, json_serializable
+Backend           → Firebase (Auth, Firestore, Storage)
+Database          → SQLite, Firestore
+Networking        → REST APIs, HTTP, JSON
+Tools             → Git, GitHub
+```
 
 ## Currently
 
