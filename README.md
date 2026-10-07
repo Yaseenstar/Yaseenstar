@@ -16,7 +16,7 @@
 
 ---
 
-I build **mobile applications with Flutter**, focused on **scalable state management (BLoC & Riverpod)**, **Firebase integration**, and **REST API consumption**. I care about writing readable, maintainable code that holds up integration, and REST API consumption. I care about writing maintainable, testable code that holds up in production..
+I build **mobile applications with Flutter**, focused on **scalable state management (BLoC & Riverpod)**, **Firebase integration**, and **REST API consumption**. I care about writing maintainable, testable code that holds up in production..
 
 ---
 
