@@ -46,18 +46,22 @@ I build **mobile applications with Flutter**, focused on **scalable state manage
 - 🎓 BS Computer Science student, University of Malakand
 - 📍  Malakand, Kpk Pakistan
 - 🗣️ Urdu · English
-  💼 Integrating Firebase services into production-grade Flutter apps
+- 💼 Integrating Firebase services into production-grade Flutter apps
 - 💼 Open to internships and entry-level remote roles in mobile app development
 
 ---
 
-## Connect
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaseen-ahmad-88039a38a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skystary1a@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaseenstar)
 
----
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skystary1a@gmail.com)
 
+📬 Reach me by email · 💼 Open to Flutter opportunities · 🔗 [github.com/Yaseenstar](https://github.com/Yaseenstar)
+--- 
+
+     
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaseenstar&show_icons=true&theme=default&hide_border=true)
