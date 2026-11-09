@@ -26,7 +26,8 @@ I build **mobile applications with Flutter**, focused on **scalable state manage
 |---|---|---|
 | [**Weather-Application**](https://github.com/Yaseenstar/Weather-Application) | Flutter · Riverpod · REST API · SQLite | Real-time weather app with location-based forecasts, Gemini AI chat, offline caching, and push notifications.
 ---
-  [**Farm-management-app**](https://github.com/Yaseenstar/Farm-mangement-App) | 
+| [**Farm-management-app**](https://github.com/Yaseenstar/Farm-mangement-App) | 
+  ---
 ## Tech Stack
 
 ```
